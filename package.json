@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "name": "img2term",
+  "version": "1.0.0",
+  "description": "Open images in terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anshul Kanwar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "sharp": "^0.31.1"
+  }
+}
